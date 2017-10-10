@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/sst_widget_test"
+    android:minHeight="80dp"
+    android:minWidth="160dp"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"></appwidget-provider>
